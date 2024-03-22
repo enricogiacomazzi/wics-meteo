@@ -13,7 +13,7 @@ body {
 }
 
 table, th, td {
-    border: 3px solid rgb(0, 3, 196);
+    border: 3px solid rgb(180, 0, 196);
     border-collapse: collapse;
 }
 
